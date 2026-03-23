@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 using namespace std;
-
+//3333
 //关于内联函数vs宏函数
 //22
 #define SQUARE(x) (x*x)
