@@ -6,6 +6,7 @@
 using namespace std;
 //电子//鹅
 //哦
+//哈哈
 namespace bit
 {
 	template<class T>
