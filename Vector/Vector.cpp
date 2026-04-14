@@ -8,6 +8,7 @@ using namespace std;
 //哦
 //哈哈
 //呃呃呃呃
+//阿
 namespace bit
 {
 	template<class T>
