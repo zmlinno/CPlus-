@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 //3333
+//的
 //关于内联函数vs宏函数
 //22
 #define SQUARE(x) (x*x)
