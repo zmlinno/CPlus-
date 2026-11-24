@@ -4,6 +4,7 @@
 #include<cassert>
 #include<algorithm>
 using namespace std;
+//的
 namespace bit
 {
 	template<class T>
@@ -19,7 +20,7 @@ namespace bit
 		const_iterator cend() { return _finish };
 
 
-		//���캯��
+		//¹¹Ôìº¯Êý
 		vector() :_start(nullptr), _finish(nullptr), _endOfStorage(nullptr){}
 
 		vector(int n, const T& value = T())
@@ -60,7 +61,7 @@ namespace bit
 
 		}
 
-		//�ڴ�
+		//ÄÚ´æ
 		size_t size()const { return _finish - _start; }
 		size_t capacity() { return _endOfStorage - _start; }
 
